@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups / temporare
+*.bak
+*.tmp
+*.log
+*.sql~*
+*.swp
+*.swo
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Python (dacă adaugi scripturi)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env
+.env.*
+
+# Editor config (opțional)
+.vscode/
+
+# Cache diverse
+.cache/

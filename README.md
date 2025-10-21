@@ -16,4 +16,8 @@ Acest repo conține scriptul **magazin.sql** care:
 USE magazin;
 SELECT * FROM Comenzi ORDER BY data_comanda DESC;
 SELECT * FROM V_TotalComenzi;
+<<<<<<< HEAD
 CALL TotalCheltuit(1);
+=======
+CALL TotalCheltuit(1);
+>>>>>>> a4c5880 (Update .gitignore and README)
